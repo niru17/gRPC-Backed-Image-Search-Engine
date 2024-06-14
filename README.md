@@ -1,3 +1,5 @@
+# gRPC Backend Image Search Engine
+
 ### Description:
 The dockerfile of the containerized server is located in the 'server' directory.
 Three separately containerized clients are implemented namely:
